@@ -1,0 +1,10 @@
+
+{
+  "input": {
+    "prompt": "A futuristic city at sunset with flying cars, cinematic lighting, highly detailed, photorealistic",
+    "width": 512,
+    "height": 512,
+    "num_inference_steps": 20,
+    "seed": 42
+  }
+}

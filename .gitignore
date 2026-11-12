@@ -1,0 +1,41 @@
+
+# Environment files and credentials
+.env
+.env.*
+!.gitignore
+
+# Python virtual environments
+.venv/
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+
+# Model files and caches
+model-cache/
+huggingface/
+models/
+*.safetensors
+*.ckpt
+*.pt
+*.pth
+
+# Windows system files
+desktop.ini
+Thumbs.db
+
+# IDE and editor settings
+.vscode/
+.idea/
+
+# Logs and temporary files
+*.log
+*.tmp
+*.temp
+
+# OS files
+.DS_Store

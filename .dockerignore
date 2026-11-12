@@ -1,0 +1,12 @@
+
+.git
+.venv
+__pycache__
+*.pyc
+.env
+.env.*
+!.env.example
+evidence
+docs
+README.md
+test_endpoint.py
